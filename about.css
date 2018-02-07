@@ -30,7 +30,7 @@ body {
 }
 
 header {
-    background: #E54B4B;
+    background: rgb(58, 65, 64);
     color: #EBEBD3;
     padding: 1em 0;
     position: relative;
@@ -99,11 +99,11 @@ header::after {
 
 .site-nav--icon {
     display: inline-block;
-    font-size: 1.5em;
+    font-size: 2em;
     margin-right: 1em;
     width: 1.1em;
     text-align: right;
-    color: rgba(255, 255, 255, .4);
+    color: #EBEBD3;
 }
 
 .menu-toggle {
